@@ -1,0 +1,4 @@
+﻿*.rar
+*.weights
+__pycache__/
+*.py[cod]
